@@ -7,7 +7,7 @@
 #+AUTHOR: Suat Karakusoglu
 #+EMAIL: suatkarakusoglu@gmail.com
 #+DESCRIPTION: Dired Mode
-#+KEYWORDS: Dired, File, Folder, Emacs
+#+KEYWORDS: Dired File Folder Emacs
 #+LANGUAGE: en
 
 This is about Dired mode for emacs.
