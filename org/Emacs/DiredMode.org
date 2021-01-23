@@ -6,11 +6,11 @@
 #+DATE: <2021-01-24 Paz>
 #+AUTHOR: Suat Karakusoglu
 #+EMAIL: suatkarakusoglu@gmail.com
-#+DESCRIPTION: Dired Mode
+#+DESCRIPTION: Amazing Dired Mode Features 
 #+KEYWORDS: Dired File Folder Emacs
 #+LANGUAGE: en
 
-This is about Dired mode for emacs.
+We will talk about dired mode and the features showing examples.
 
 * Dired mode
   Dired mode offers so many cool stuff.

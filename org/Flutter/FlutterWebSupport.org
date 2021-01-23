@@ -1,0 +1,16 @@
+#+HUGO_BASE_DIR: ../../hugo
+#+HUGO_SECTION: Flutter 
+#+HUGO_CATEGORIES: Flutter 
+#+HUGO_TYPE: post
+#+TITLE: Flutter Web Support 
+#+DATE: <2021-01-24 Paz>
+#+AUTHOR: Suat Karakusoglu
+#+EMAIL: suatkarakusoglu@gmail.com
+#+DESCRIPTION: Flutter Web Support 
+#+KEYWORDS: Flutter Web
+#+LANGUAGE: en
+
+Let's talk about the Flutter web.
+
+* Flutter Web 
+  It is really amazing how flutter supports so many platforms.
