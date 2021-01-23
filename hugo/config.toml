@@ -68,16 +68,16 @@ paginate = 30
     # privacyPolicy = ""
 
 [[menu.main]]
-    url = "/emacs/"
+    url = "/emacs/index.html"
     name = "Emacs"
     weight = 2
 
 [[menu.main]]
-    url = "/iOS/"
+    url = "/iOS/index.html"
     name = "IOS"
     weight = 3
 
 [[menu.main]]
-    url = "/flutter/"
+    url = "/flutter/index.html"
     name = "Flutter"
     weight = 4
