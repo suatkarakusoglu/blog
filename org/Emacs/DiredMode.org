@@ -1,0 +1,16 @@
+#+HUGO_BASE_DIR: ../../hugo
+#+HUGO_SECTION: Emacs
+#+HUGO_CATEGORIES: Emacs
+#+HUGO_TYPE: post
+#+TITLE: Dired Mode
+#+DATE: <2021-01-24 Paz>
+#+AUTHOR: Suat Karakusoglu
+#+EMAIL: suatkarakusoglu@gmail.com
+#+DESCRIPTION: Dired Mode
+#+KEYWORDS: Dired, File, Folder, Emacs
+#+LANGUAGE: en
+
+This is about Dired mode for emacs.
+
+* Dired mode
+  Dired mode offers so many cool stuff.

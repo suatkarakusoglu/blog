@@ -1,0 +1,37 @@
+#+HUGO_BASE_DIR: ../hugo
+#+HUGO_SECTION: ./
+#+HUGO_MENU: :menu about :weight 6 :name About
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_TYPE: page
+#+TITLE: Suat Karakusoglu
+#+DATE: <2021-01-24 Paz>
+#+AUTHOR: Suat Karakusoglu
+#+EMAIL: suatkarakusoglu@gmail.com
+#+DESCRIPTION: Personal information.
+#+KEYWORDS: "Suat Karakusoglu" Blog Emacs iOS Flutter
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: num:nil
+
+# Gravatar.
+#+begin_export html
+<img style="border-radius: 50%; float: right;"
+     src="https://media-exp1.licdn.com/dms/image/C4D03AQEudt0lKSOkLQ/profile-displayphoto-shrink_200_200/0/1517481949470?e=1616630400&v=beta&t=E_MfaPe5QBtfeOtQgvg09rDk8rork6hvYue-h-MQlS0"
+     alt="gravatar"
+     title="Suat Karakusoglu"/>
+#+end_export
+
+* Interests
+  - Mobile Development
+  - iOS
+  - Flutter
+  - Emacs
+
+* Biography
+  Suat Karakusoglu, 2012 Comp. Eng.
+  OCA Certified Java Dev.
+  iOS Dev.
+
+  # CV here.
+  # Youtube link
