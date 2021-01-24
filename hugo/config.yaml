@@ -85,6 +85,8 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/suatkarakusoglu"
+        - name: stackoverflow 
+          url: "https://stackoverflow.com/users/837222/suat-karakusoglu"
         - name: RsS
           url: "index.xml"
 
@@ -130,26 +132,26 @@ taxonomies:
 #         # noClasses: false
 #         style: monokai
 
-privacy:
-    vimeo:
-        disabled: false
-        simple: true
+# privacy:
+#     vimeo:
+#         disabled: false
+#         simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
+#     twitter:
+#         disabled: false
+#         enableDNT: true
+#         simple: true
 
-    instagram:
-        disabled: false
-        simple: true
+#     instagram:
+#         disabled: false
+#         simple: true
 
-    youtube:
-        disabled: false
-        privacyEnhanced: true
+#     youtube:
+#         disabled: false
+#         privacyEnhanced: true
 
-services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
+# services:
+#     instagram:
+#         disableInlineCSS: true
+#     twitter:
+#         disableInlineCSS: true
