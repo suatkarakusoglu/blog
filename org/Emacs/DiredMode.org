@@ -2,6 +2,7 @@
 #+HUGO_SECTION: Emacs
 #+HUGO_CATEGORIES: Emacs
 #+HUGO_TYPE: post
+#+EXPORT_HUGO_TYPE: post
 #+TITLE: Dired Mode
 #+DATE: <2021-01-24 Paz>
 #+AUTHOR: Suat Karakusoglu

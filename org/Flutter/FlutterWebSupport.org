@@ -2,6 +2,7 @@
 #+HUGO_SECTION: Flutter 
 #+HUGO_CATEGORIES: Flutter 
 #+HUGO_TYPE: post
+#+EXPORT_HUGO_TYPE: post
 #+TITLE: Flutter Web Support 
 #+DATE: <2021-01-24 Paz>
 #+AUTHOR: Suat Karakusoglu
