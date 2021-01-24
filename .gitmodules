@@ -4,3 +4,6 @@
 [submodule "hugo/public"]
 	path = hugo/public
 	url = git@github.com:suatkarakusoglu/suatkarakusoglu.github.io.git
+[submodule "hugo/themes/HugoInk"]
+	path = hugo/themes/HugoInk
+	url = https://github.com/knadh/hugo-ink.git
