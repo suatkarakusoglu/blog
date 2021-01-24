@@ -4,7 +4,7 @@ author = ["Suat Karakusoglu"]
 description = "Personal information."
 date = 2021-01-24T00:00:00+03:00
 keywords = ["Suat Karakusoglu", "Blog", "Emacs", "iOS", "Flutter"]
-lastmod = 2021-01-24T13:40:04+03:00
+lastmod = 2021-01-25T00:06:10+03:00
 type = "page"
 draft = false
 [menu.about]
