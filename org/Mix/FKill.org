@@ -1,5 +1,5 @@
 #+HUGO_BASE_DIR: ../../hugo
-#+HUGO_SECTION: Emacs
+#+HUGO_SECTION: Mix 
 #+HUGO_CATEGORIES: Terminal Programming Linux
 #+HUGO_TYPE: post
 #+EXPORT_HUGO_TYPE: post
