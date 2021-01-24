@@ -23,9 +23,6 @@ outputs:
 
 menu:
     main:
-        - name: Archive 
-          url: archive
-          weight: 5
         - name: Categories
           url: categories
           weight: 10
@@ -57,8 +54,6 @@ params:
         imageHeight: 120
         subtitle: "Hokus Pokus"
         buttons:
-            - name: Archive 
-              url: archive 
             - name: Categories 
               url: categories 
             - name: About 
