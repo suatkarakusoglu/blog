@@ -15,6 +15,36 @@ minify:
     disableXML: true
     # minifyOutput: true
 
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Posts 
+                  url: archive
+                  weight: 5
+                - name: Categories
+                  url: categories
+                  weight: 10
+                - name: Search
+                  url: search
+                  weight: 10
+        profileMode:
+            enabled: true
+            title: Suat Karakusoglu
+            # imageUrl: "#"
+            # imageTitle: my image
+            # imageWidth: 120
+            # imageHeight: 120
+            subtitle: "☄️ Fast | ☁️  Furious"
+            buttons:
+                - name: Posts 
+                  url: archive 
+                - name: Categories 
+                  url: categories 
+                - name: About 
+                  url: about 
 outputs:
     home:
         - HTML
@@ -35,32 +65,19 @@ params:
     displayFullLangName: true
     # comments: false
     # images: ["papermod-cover.png"]
-    menu:
-        main:
-            - name: Search
-              url: search
-              weight: 10
-            - name: Categories
-              url: categories
-              weight: 10
-            - name: Posts 
-              url: archive
-              weight: 5
+
     profileMode:
-        enabled: true
-        title: Suat Karakusoglu
-        imageUrl: "https://avatars.githubusercontent.com/u/1485071?s=400&u=4361c47fba84d38217420c56efea2df9f6f5a084&v=4"
+        enabled: false
+        title: PaperMod
+        imageUrl: "#"
         # imageTitle: my image
-        imageWidth: 120
-        imageHeight: 120
-        subtitle: "☄️ Fast | ☁️  Furious"
+        # imageWidth: 120
+        # imageHeight: 120
         buttons:
-            - name: Posts 
-              url: archive 
-            - name: Categories 
-              url: categories 
-            - name: About 
-              url: about 
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
 
     homeInfoParams:
         Title: "Suat K."
