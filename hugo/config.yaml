@@ -48,10 +48,10 @@ params:
     profileMode:
         enabled: true
         title: Suat Karakusoglu
-        imageUrl: "https://media-exp1.licdn.com/dms/image/C4D03AQEudt0lKSOkLQ/profile-displayphoto-shrink_200_200/0/1517481949470?e=1617235200&v=beta&t=Fw1w43P0jdde8zEEjr9sTW1LfnbApO8nkDJjPcgFtfw"
+        # imageUrl: ""
         # imageTitle: my image
-        imageWidth: 120
-        imageHeight: 120
+        # imageWidth: 120
+        # imageHeight: 120
         subtitle: "Hokus Pokus"
         buttons:
             - name: Categories 
