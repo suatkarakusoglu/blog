@@ -70,11 +70,15 @@ params:
             Welcome to site. 
 
     socialIcons:
+        - name: linkedin 
+          url: "https://www.linkedin.com/in/suat-karakusoglu/"
         - name: github
           url: "https://github.com/suatkarakusoglu"
         - name: stackoverflow 
           url: "https://stackoverflow.com/users/837222/suat-karakusoglu"
-        - name: RsS
+        - name: youtube 
+          url: "https://www.youtube.com/channel/UChFylyoLv51kdrzrT5G0Flw"
+        - name: Rss
           url: "index.xml"
 
     # label:
