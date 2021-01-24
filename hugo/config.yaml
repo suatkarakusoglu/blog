@@ -21,6 +21,18 @@ outputs:
         - RSS
         - JSON
 
+menu:
+    main:
+        - name: Archive 
+          url: archive
+          weight: 5
+        - name: Categories
+          url: categories
+          weight: 10
+        - name: Search
+          url: search
+          weight: 10
+          
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "iOS, Flutter, emacs..."
@@ -36,17 +48,6 @@ params:
     # comments: false
     # images: ["papermod-cover.png"]
 
-    menu:
-        main:
-            - name: Archive 
-              url: archive
-              weight: 5
-            - name: Categories
-              url: categories
-              weight: 10
-            - name: Search
-              url: search
-              weight: 10
     profileMode:
         enabled: true
         title: Suat Karakusoglu
