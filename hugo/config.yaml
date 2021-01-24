@@ -15,34 +15,6 @@ minify:
     disableXML: true
     # minifyOutput: true
 
-languages:
-    en:
-        languageName: "English"
-        weight: 1
-        menu:
-            main:
-                - name: Search
-                  url: search
-                  weight: 10
-                - name: Categories
-                  url: categories
-                  weight: 10
-                - name: Archive
-                  url: archive
-                  weight: 5
-        profileMode:
-            enabled: true
-            title: Suat Karakusoglu
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️  Furious"
-            buttons:
-                - name: About 
-                  url: about 
-                - name: Categories 
-                  url: categories 
 outputs:
     home:
         - HTML
@@ -63,19 +35,32 @@ params:
     displayFullLangName: true
     # comments: false
     # images: ["papermod-cover.png"]
-
+    menu:
+        main:
+            - name: Search
+              url: search
+              weight: 10
+            - name: Categories
+              url: categories
+              weight: 10
+            - name: Posts 
+              url: archive
+              weight: 5
     profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
+        enabled: true
+        title: Suat Karakusoglu
+        imageUrl: "https://avatars.githubusercontent.com/u/1485071?s=400&u=4361c47fba84d38217420c56efea2df9f6f5a084&v=4"
         # imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        imageWidth: 120
+        imageHeight: 120
+        subtitle: "☄️ Fast | ☁️  Furious"
         buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
+            - name: Posts 
+              url: archive 
+            - name: Categories 
+              url: categories 
+            - name: About 
+              url: about 
 
     homeInfoParams:
         Title: "Suat K."
