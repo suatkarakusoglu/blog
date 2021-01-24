@@ -1,7 +1,7 @@
 +++
 title = "Dired Mode"
 author = ["Suat Karakusoglu"]
-description = "Dired Mode"
+description = "Amazing Dired Mode Features"
 date = 2021-01-24T00:00:00+03:00
 keywords = ["Dired", "File", "Folder", "Emacs"]
 categories = ["Emacs"]
@@ -9,7 +9,7 @@ type = "post"
 draft = false
 +++
 
-This is about Dired mode for emacs.
+We will talk about dired mode and the features showing examples.
 
 
 ## Dired mode {#dired-mode}
