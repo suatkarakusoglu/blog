@@ -21,46 +21,28 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Archive
-                  url: archives
-                  weight: 5
                 - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
-        profileMode:
-            enabled: true
-            title: PaperMod
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Tags
-                  url: tags
-        menu:
-            main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: Tags
-                  url: tags
+                  url: search
                   weight: 10
                 - name: Categories
                   url: categories
                   weight: 10
-                - name: Series
-                  url: series
-                  weight: 10
-
+                - name: Archive
+                  url: archive
+                  weight: 5
+        profileMode:
+            enabled: true
+            title: Suat Karakusoglu
+            # imageUrl: "#"
+            # imageTitle: my image
+            # imageWidth: 120
+            # imageHeight: 120
+            subtitle: "☄️ Fast | ☁️  Furious"
+            buttons:
+                - name: About 
+                  url: about 
+                - name: Categories 
+                  url: categories 
 outputs:
     home:
         - HTML
