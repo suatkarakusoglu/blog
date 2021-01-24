@@ -3,7 +3,7 @@
 #+HUGO_CATEGORIES: Terminal Programming Linux
 #+HUGO_TYPE: post
 #+EXPORT_HUGO_TYPE: post
-#+TITLE: Dired Mode
+#+TITLE: Process kill tool: fkill 
 #+DATE: <2021-01-24 Paz>
 #+AUTHOR: Suat Karakusoglu
 #+EMAIL: suatkarakusoglu@gmail.com
@@ -11,7 +11,7 @@
 #+KEYWORDS: fkill linux process
 #+LANGUAGE: en
 
-We will talk about dired mode and the features showing examples.
+[[file:2021-01-24_23-50-01_finish_him.jpeg]]
 
 Processes are pretty much everything which works under the hood of the operating system.
 

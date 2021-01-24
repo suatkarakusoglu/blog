@@ -1,5 +1,5 @@
 +++
-title = "Dired Mode"
+title = "Process kill tool: fkill"
 author = ["Suat Karakusoglu"]
 description = "Kill a process easily: fkill"
 date = 2021-01-24T00:00:00+03:00
@@ -9,7 +9,7 @@ type = "post"
 draft = false
 +++
 
-We will talk about dired mode and the features showing examples.
+{{< figure src="/ox-hugo/2021-01-24_23-50-01_finish_him.jpeg" >}}
 
 Processes are pretty much everything which works under the hood of the operating system.
 
