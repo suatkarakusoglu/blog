@@ -18,3 +18,5 @@ We will talk about dired mode and the features showing examples.
 
 ** Dired Mode is writable
    That means you can change name of any directory and file, and apply.
+
+[[file:Dired_mode/2021-01-24_23-26-02_emacs_dired.png]]
