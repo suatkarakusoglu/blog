@@ -30,7 +30,9 @@
 
 * Biography
   Suat Karakusoglu, 2012 Comp. Eng.
+  
   OCA Certified Java Dev.
+  
   iOS Dev.
 
   # CV here.
