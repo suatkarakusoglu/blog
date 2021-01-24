@@ -76,3 +76,8 @@ fkill :8080
 ### Kill a process through list, fkill helps auto completion. {#kill-a-process-through-list-fkill-helps-auto-completion-dot}
 
 {{< figure src="/ox-hugo/2021-01-24_23-47-33_fkill_kill_whatsapp.png" >}}
+
+
+## References {#references}
+
+[fkill @github](https://github.com/sindresorhus/fkill-cli)

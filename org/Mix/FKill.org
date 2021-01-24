@@ -65,3 +65,5 @@ Find related column
 
 ** Kill a process through list, fkill helps auto completion.
    [[file:How_to_use__fkill_?/2021-01-24_23-47-33_fkill_kill_whatsapp.png]]
+* References
+  [[https://github.com/sindresorhus/fkill-cli][fkill @github]] 
